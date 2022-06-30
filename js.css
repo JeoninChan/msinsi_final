@@ -77,7 +77,18 @@
 .grade{
     width: 140px;
 }
-
+.army{
+    
+  width: 164px;
+  height: 300px;
+  align-items: center;
+  margin: auto;
+  border-radius: 10px;  
+  text-align: center; 
+  background: url('http://file3.instiz.net/data/file3/2018/02/01/c/0/3/c03c8de5a9380e50cc8db0a04f6e7f13.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+}
 .start{
     width: 400px;
     height: 800px;
